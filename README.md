@@ -8,3 +8,4 @@ A customer is provided with 2 options:
 The users first places an order. They can then track the order by entering their order id. 
 
 ![alt tag](https://github.com/SonakshiGrover/Pizza/blob/master/Screenshot%201.png)
+![alt tag](https://github.com/SonakshiGrover/Pizza/blob/master/Screenshot%202.png)
